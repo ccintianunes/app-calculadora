@@ -1,16 +1,9 @@
-# app_calculadora
+# Calculadora Flutter
+Este projeto é uma calculadora simples desenvolvida com o framework Flutter. O aplicativo permite ao usuário inserir dois valores, X e Y, e calcular a soma entre eles.
 
-A new Flutter project.
+## Funcionalidades
+Entrada de valores: O usuário pode informar os valores de X e Y através de uma tela de entrada separada.
 
-## Getting Started
+## Cálculo:
+Após inserir os dois valores, o usuário pode clicar no botão "Calcular" para obter o resultado da soma de X + Y.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
